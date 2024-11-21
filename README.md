@@ -521,6 +521,10 @@ Nearly always hiring in Newcastle & Edinburgh (UK).
   generation of cyber security - disrupting the data loss prevention (DLP)
   market with our innovative, cloud native, ML powered platform. Office in
   London UK, with over half the frontend team working remotely.
+* [Pareto Security](https://paretosecurity.com/) - Pareto Security is a non-invasive
+  alternative to corporate MDM and RMM solutions. It makes sure your Mac devices
+  are correctly configured to help you avoid the common security pitfalls. The
+  native macOS apps send reports to a Web-based Dashboard powered by Elm. 
 
 
 #### Software
